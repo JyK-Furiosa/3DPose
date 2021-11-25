@@ -1,0 +1,6 @@
+[submodule "simple-HRNet"]
+	path = simple-HRNet
+	url = https://github.com/JyK-Furiosa/simple-HRNet
+[submodule "VideoPose3D"]
+	path = VideoPose3D
+	url = https://github.com/JyK-Furiosa/VideoPose3D
